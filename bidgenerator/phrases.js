@@ -2,7 +2,7 @@ var phrases = {
 	"aim":[
 		"To promote ",
 		"To discourage ",
-		"To engage ",
+		"To engage people in ",
 		"To control ",
 		"To research ",
 		"To give respite from ",
