@@ -31,7 +31,7 @@ function ShowResult() {
 	var result = GenerateResult();
 	var resultField = document.getElementById('resultfield');
 
-	var speed = 35; 
+	var speed = 20; 
 	
 	resultField.innerHTML = "...";
 	

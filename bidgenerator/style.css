@@ -204,7 +204,7 @@ section:nth-child(2n) .tab-area button.active {
 .parent {
   width: 100%;
   height: 100%;
-  place-items: center;
+  place-items: left;
 }
 
 .taglist {
@@ -251,7 +251,7 @@ section:nth-child(2n) .tab-area button.active {
   font-size: 2rem;
   padding: 1rem;
   display: grid;
-  place-items: center;
+  place-items: left;
   border-radius: 1rem;
   border-style: dashed;
 }
